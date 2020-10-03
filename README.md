@@ -1,5 +1,5 @@
 # udemy-testing-exercise
-A place to practice testing with Jest
+A place to practice testing with Jest!
 
 To Run:
 1. Clone repo
