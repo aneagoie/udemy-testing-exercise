@@ -1,4 +1,4 @@
-# udemy-testing-exercise
+# testing-exercise
 A place to practice testing with Jest!
 
 To Run:

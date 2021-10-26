@@ -2,6 +2,7 @@
   "name": "tests",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "script.js",
   "scripts": {
     "test": "jest",
@@ -11,9 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^26.4.2"
+    "jest": "^27.3.1"
   },
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.2"
   }
 }
