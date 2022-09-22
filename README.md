@@ -1,3 +1,5 @@
+Deprecated.. use this instead: https://github.com/aneagoie/testing-exercise
+
 # testing-exercise
 A place to practice testing with Jest!
 
